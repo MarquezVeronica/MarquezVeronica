@@ -1,6 +1,6 @@
 ***About Me***
 <br>
-<strong>Third-year Engineering student. Currently developing a desktop application in Python for a aesthetic clinic, managing patients, medical records, scheduling, inventory, and payments. Passionate about technological innovation and solutions that enhance productivity.</strong>
+<strong>Fourth-year Engineering student. Currently developing a desktop application in Python for a aesthetic clinic, managing patients, medical records, scheduling, inventory, and payments. Passionate about technological innovation and solutions that enhance productivity.</strong>
 
 - 📫 <strong>Reach out to me at:</strong> <a href="mailto:veronica.marquezgrillet.05@gmail.com">veronica.marquezgrillet.05@gmail.com</a>
 
